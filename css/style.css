@@ -1,28 +1,27 @@
-form{
- 
-    margin-top: 35%;
-    padding: 50px;
-    background-color: rgb(12, 93, 169);
-    }
-     
-     
-    .btn{
-     
-    margin-top: 5%;
-     
-    }
-     
-    .pri{
-    height: 900px;
-     
-    }
-      .m3{
-    height: 900px;
-      }
-      i{
-        margin-top: 10%;
-       
-      }
-      body{
-        background-color: darkblue;
-      }
+form {
+  margin-top: 30%;
+  background: rgb(39, 97, 145);
+  padding: 40px;
+  border-radius: 20px;
+}
+.responsive-img {
+  margin-top: 35%;
+}
+label{
+  color: rgb(9, 26, 41);
+}
+.btn{
+  margin-top: 5%;
+  background: rgb(6, 38, 65);
+}
+body{
+  background: rgb(182, 204, 224);
+}
+
+span{
+  font-size: 1.5em;
+}
+
+input{
+  color: black;
+}

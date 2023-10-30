@@ -1,0 +1,27 @@
+form {
+    margin-top: 10%;
+    background: rgb(39, 97, 145);
+    padding: 40px;
+    border-radius: 20px;
+  }
+  .responsive-img {
+    margin-top: 35%;
+  }
+  label{
+    color: rgb(9, 26, 41);
+  }
+  .btn{
+    margin-top: 5%;
+    background: rgb(6, 38, 65);
+  }
+  body{
+    background: rgb(182, 204, 224);
+  }
+  
+  span{
+    font-size: 1.5em;
+  }
+  
+  input{
+    color: black;
+  }
